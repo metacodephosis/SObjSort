@@ -1,0 +1,11 @@
+.sfdx/
+config/
+manifest/
+.forceignore
+sfdx-project.json
+.eslintignore
+scripts/
+.vscode
+.prettierignore
+.prettierrc
+package.json
